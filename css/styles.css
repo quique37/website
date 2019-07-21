@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.content-image {
+    height: 250px;
+    width: 250px;
+}
+
+hr {
+    border-style: none;
+    width: 5%;
+    border-top-style: dotted;
+    border-top-width: 6px;
+    border-color: grey;
+    border-width: 8px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.logos {
+    height: 50px;
+    width: 50px;
+}
+
+.skill-row:hover {
+    color: red;
+}
+
+.profile {
+    height: 1200px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.videogames {
+    position: relative;
+    top: 100px;
+}
+
+.videogames:hover {
+    color: red;
+}
+
+.skills {
+    text-align: justify;
+    height: 500px;
+    margin-left: 400px;
+    margin-right: auto;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 125px;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+}
+
+h2,
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.programmer {
+    position: relative;
+    top: 135px;
+    font-size: 4em;
+    font-family: 'VT323', monospace;
+}
+
+.top-container {
+    /*background-color: #E4F9F5;*/
+    background-color: #B1E9F1;
+    height: 1200px;
+}
+
+.river {
+    position: relative;
+    top: 150px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 225px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 75px;
+}
+
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 1000px;
+}
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 800px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 600px;
+}
+
+.red2 {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 400px;
+    top: 1000px;
+}
+
+.blue2 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 200px;
+    top: 800px;
+}
+
+.yellow2 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 600px;
+    right: 0;
+}
